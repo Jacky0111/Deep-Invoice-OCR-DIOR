@@ -1,0 +1,23 @@
+{"0": "Account Information",
+  "1": "ACCOUNT STATEMENT",
+  "2": "JALAN JALAN NUSANTARA PT",
+  "Account No.": "8002280088 /",
+  "3": "GEDUNG JIWASRAYA LANTAI DASAR",
+  "Account Type": "Current",
+  "4": "NO 104 JAKARTA PUSAT 10350",
+  "Period": "01-Apr-21",
+  "5": "-",
+  "6": "30-Apr-21",
+  "Page": "9"}
+
+{"8": {"4": "Posting Date Effective Date Bic:", "|": "BL-y-ferale)i(eyal DB/CR", "Branch": null, "Journal": "lal-r-lead(olam", "Amount": null, "Balance": null, "\\": null},
+  "9": {"4": "BANKING report Air SERVICES 0621001063 (TBS)", "|": "K-I |", "Branch": null, "Journal": "ticket Apr", "Amount": null, "Balance": null, "\\": null},
+  "10": {"4": " 8002280088 DIVISI a TRANSFER", "|": "202104301721344348", "Branch": null, "Journal": null, "Amount": null, "Balance": null, "\\": null},
+  "11": {"4": "TRANSFER", "|": "PAYMENT", "Branch": null, "Journal": "KE | BILL", "Amount": null, "Balance": null, "\\": null},
+  "12": {"4": "30/04/202112.49.29 30/04/202112.49.29 748714 (MPN G2 SERVICES  (TBS) INTERNAL  30/04/202100.00.00 30/04/202100.00.00 BRANCH", "|": "10,697,181.00 D340,568,459.00", "Branch": null, "Journal": "IDR )NO \u00b0025182282882004", "Amount": null, "Balance": null, "\\": null},
+  "13": {"4": " 913271 JASA", "|": "258,340.00 K340,826,799.00", "Branch": null, "Journal": "GIRO/BUNGA", "Amount": null, "Balance": null, "\\": null},
+  "14": {"4": "30/04/202100.00.00 30/04/202100.00.00", "|": null, "Branch": null, "Journal": null, "Amount": null, "Balance": null, "\\": null},
+  "15": {"4": "30/04/202100.00.00 30/04/202100.00.00 SRANCH 913271 PPH", "|": "51,668.00 D340,775,131.00", "Branch": null, "Journal": null, "Amount": null, "Balance": null, "\\": null},
+  "16": {"4": "30/04/202100.00.00 30/04/202100.00.00", "|": null, "Branch": null, "Journal": null, "Amount": null, "Balance": null, "\\": null},
+  "17": {"4": "30/04/202100.00.00 30/04/202100.00.00 ATERNAS 913271 BIAYA", "|": "25,000.00 D", "Branch": null, "Journal": "ADM REK", "Amount": null, "Balance": null, "\\": null},
+  "18": {"4": "BRANCH", "|": null, "Branch": null, "Journal": null, "Amount": null, "Balance": null, "\\": null}}
